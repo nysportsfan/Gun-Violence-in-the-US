@@ -3,9 +3,9 @@
 Welcome to my very first Capstone Project!
 
 Here I have attached the relevant components for the project:
-1) Data Wrangling - 
-2) Exploratory Data Analysis -
-3) Inferential Statistics - 
+1) Data Wrangling - Collecting, cleaning and transforming the data.
+2) Exploratory Data Analysis - Using data visualization to investigate trends and tell a story.
+3) Inferential Statistics - Observing the correlations between feature and response variables.
 4) Machine Learning - 
 5) Milestone Report - 
 6) Project Proposal -
