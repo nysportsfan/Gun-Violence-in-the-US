@@ -13,6 +13,7 @@ Here I have attached the relevant components for the project:
 8) Images folder - 
 
 Enjoy browsing through my work and if you have any questions or suggestions, please do not hesitate to let me know.
+
 I can be reached via email: joshua.kim017@gmail.com
 
 Thank you!
