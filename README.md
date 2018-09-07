@@ -1,6 +1,6 @@
 # Capstone-Project-1
 
-Welcome to my very first Capstone Project!
+Welcome to my very first Capstone Project: Gun Violence in the US
 
 Here I have attached all the relevant components for the project:
 1) Data Wrangling - Collecting, cleaning and transforming the data.
