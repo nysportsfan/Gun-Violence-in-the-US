@@ -15,7 +15,7 @@ Here I have attached all the relevant components for the project:
 
 Enjoy browsing through my work and if you have any questions or suggestions, please do not hesitate to let me know.
 
-I will be updating this project on and off to add improvements to the models, presentation, data visualization, etc. 
+I will be updating this project on and off to add improvements to the ML models, presentation, data visualization, etc. 
 
 I can be reached via email: joshua.kim017@gmail.com
 
