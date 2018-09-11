@@ -20,3 +20,5 @@ I will be updating this project on and off to add improvements to the ML models,
 I can be reached via email: joshua.kim017@gmail.com
 
 Thank you!
+
+Update 1 (9/11/18): Dropped the incident_characteristics, mapped_primary, mapped_secondary columns due to data leakage.
