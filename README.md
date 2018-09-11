@@ -22,3 +22,4 @@ I can be reached via email: joshua.kim017@gmail.com
 Thank you!
 
 Update 1 (9/11/18): Dropped the incident_characteristics, mapped_primary, mapped_secondary columns due to data leakage.
+Made edits to the Inferential Statistics, Machine Learning notebooks, Final Presentation slides and Final Abstract report.
